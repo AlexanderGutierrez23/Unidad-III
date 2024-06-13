@@ -1,2 +1,2 @@
 # Unidad-III
-Este repositorio almacenara todos los archivos relacionados a la unidad III
+Este repositorio almacenará todos los archivos relacionado a la Unidad III. 
